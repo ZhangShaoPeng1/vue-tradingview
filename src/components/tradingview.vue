@@ -94,6 +94,7 @@
             "mainSeriesProperties.candleStyle.borderDownColor": "rgb(255, 0, 0)",
             "mainSeriesProperties.candleStyle.wickUpColor": "#589065",
             "mainSeriesProperties.candleStyle.wickDownColor": "#ae4e54",
+            
             // 空心k
             "mainSeriesProperties.hollowCandleStyle.upColor": "#589065",
             "mainSeriesProperties.hollowCandleStyle.downColor": "#ae4e54",
