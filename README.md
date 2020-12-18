@@ -1,6 +1,6 @@
 # tradingview
 
-> 在vue项目中调用tradingview
+> 在vue项目中使用tradingview
 
 ## Build Setup
 
