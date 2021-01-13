@@ -5,7 +5,7 @@
 import Vue from 'vue'
 // import store from '@/store/store.js'
 import {promiseBreaker} from "./tools";
-const WS_URL = 'wss://ws.biheok.com/' // socket URL
+const WS_URL = '' // socket URL
 let wsBus = window.wsBus = new Vue({
   // store,
   data: {
